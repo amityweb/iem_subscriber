@@ -8,8 +8,6 @@ Possible uses are on a thank you page after submitting a form, such as Newslette
 
 Unzip and rename the folder to iem_subscriber. Upload the iem_subscriber folder to your system/expressionengine/third_party/ folder.
 
-Go to Add-Ons Extensions and click Enable next to the extension Control Panel Shortcuts
-
 ## Usage
 
 Use the following tag and parameters to pass data to your contact list:
