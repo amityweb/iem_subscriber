@@ -156,7 +156,7 @@ class Iem_subscriber {
 		Use the following tag and parameters to pass data to your contact list:
 		
 		{exp:iem_subscriber 
-			txml_path="http://YOUR_XML_PATH" 
+			xml_path="http://YOUR_XML_PATH" 
 		    xml_username="YOUR_XML_USERNAME" 
 		    xml_usertoken="YOUR_XML_USERTOKEN" 
 		    mailinglist_id="YOUR_MAILINGLIST_ID" 
