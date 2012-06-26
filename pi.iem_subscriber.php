@@ -157,14 +157,14 @@ class Iem_subscriber {
 		
 		{exp:iem_subscriber 
 			xml_path="http://YOUR_XML_PATH" 
-		    xml_username="YOUR_XML_USERNAME" 
-		    xml_usertoken="YOUR_XML_USERTOKEN" 
-		    mailinglist_id="YOUR_MAILINGLIST_ID" 
-		    format="h" 
-		    confirmed="y" 
-		    emailaddress="your@emailaddress_to_subscribe.com"
-		    custom_field_ids="1|2|3"
-		    custom_field_data="abc|def|ghi"
+			xml_username="YOUR_XML_USERNAME" 
+			xml_usertoken="YOUR_XML_USERTOKEN" 
+			mailinglist_id="YOUR_MAILINGLIST_ID" 
+			format="h" 
+			confirmed="y" 
+			emailaddress="your@emailaddress_to_subscribe.com"
+			custom_field_ids="1|2|3"
+			custom_field_data="abc|def|ghi"
 		}
 
 		Format can be h (for html) or t (for text). Defaults to h if removed.
